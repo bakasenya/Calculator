@@ -52,3 +52,4 @@ while True:
         print("Please enter a valid operation")
         continue
 
+print("Have a good day!")
