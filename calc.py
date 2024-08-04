@@ -54,3 +54,4 @@ while True:
 
 print("Have a good day!")
 print("Adding more functionalities later! ")
+print("Test")
